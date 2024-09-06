@@ -1,0 +1,38 @@
+[
+  {
+    "name": "John Doe",
+    "phone": "1234567890",
+    "email": "johndoe@example.com",
+    "password": "password123"
+  },
+  {
+    "name": "Navya Sharma",
+    "phone": "08264878000",
+    "email": "johndoe@exae.com",
+    "password": "1234567"
+  },
+  {
+    "name": "Navya Sharma",
+    "phone": "08264878000",
+    "email": "johndoe@exe.com",
+    "password": "12345678"
+  },
+  {
+    "name": "MUSKAN REHNI",
+    "phone": "09988615453",
+    "email": "muskan591.be@gmail.cpm",
+    "password": "1234567"
+  },
+  {
+    "name": "navya",
+    "phone": "12345678",
+    "email": "navya@123.com",
+    "password": "12345678"
+  },
+  {
+    "name": "navya",
+    "phone": "1234567891",
+    "email": "navya@23.com",
+    "password": "12345678"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Muskan",
+    "price": "231423",
+    "description": "afsdfa",
+    "location": "asdfasd",
+    "imageUrl": "whitehouse.jpg",
+    "propertyId": "property_1725295060657"
+  },
+  {
+    "title": "FOR RENT",
+    "price": "23000",
+    "description": "3bhk",
+    "location": "patiala",
+    "imageUrl": "blob:http://localhost:5000/1b37435f-65c4-4baf-968a-e277f8beab44",
+    "propertyId": "property_1725470665707"
+  },
+  {
+    "title": "FOR RENT",
+    "price": "78888",
+    "description": "2BHK",
+    "location": "PATIALA",
+    "imageUrl": "blob:http://localhost:5000/2a2c2445-f9f9-4ec7-9152-6f267ad13d2f",
+    "propertyId": "property_1725508827410"
+  }
+]
